@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700&family=Literata:opsz,wght@7..72,400;500;700&family=JetBrains+Mono:wght@400;500;700&display=swap');
 
 :root {
-  --brand: #5c3d7a;
-  --brand-dark: #3d2654;
-  --accent: #8b67b0;
+  --brand: #5a4a9a;
+  --brand-dark: #5a4a9acc;
+  --accent: #5a4a9a80;
   --navy: #111111;
   --navy-2: #222222;
   --navy-soft: #333333;
